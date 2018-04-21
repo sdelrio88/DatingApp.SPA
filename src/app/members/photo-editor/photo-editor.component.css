@@ -1,0 +1,13 @@
+img.thumbnail {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 2px;
+}
+
+/* Default class applied to drop zones on over */
+.nv-file-over { border: dotted 3px red; } 
+
+/* To hide the 'No file chosen' text next to button*/
+input[type=file] {
+    color: transparent;
+}
